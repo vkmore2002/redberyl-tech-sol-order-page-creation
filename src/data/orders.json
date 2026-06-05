@@ -1,0 +1,362 @@
+{
+  "orders": [
+    {
+      "id": "1739617168325",
+      "company": "New Company LLC",
+      "orderType": "Entity Formation",
+      "entityType": "LLC",
+      "entityName": "New Company LLC",
+      "state": "Texas",
+      "status": "DRAFT",
+      "paymentStatus": "UNPAID",
+      "orderDate": "2025-02-15",
+      "completionDate": null,
+      "orderPlacedBy": "Nandkumar Rawate",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Articles of Organization - TX LLC", "amount": 356.0 },
+        { "item": "Registered Agent (1 Year)", "amount": 99.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 15, 2025",
+          "updatedBy": "Nandkumar Rawate"
+        }
+      ]
+    },
+    {
+      "id": "1739617440084",
+      "company": "New Company LLC",
+      "orderType": "Entity Formation",
+      "entityType": "LLC",
+      "entityName": "New Company LLC",
+      "state": "Texas",
+      "status": "DRAFT",
+      "paymentStatus": "UNPAID",
+      "orderDate": "2025-02-15",
+      "completionDate": null,
+      "orderPlacedBy": "Nandkumar Rawate",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Articles of Organization - TX LLC", "amount": 356.0 },
+        { "item": "Registered Agent (1 Year)", "amount": 99.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 15, 2025",
+          "updatedBy": "Nandkumar Rawate"
+        }
+      ]
+    },
+    {
+      "id": "852271",
+      "company": "RedBeryl Tech Solutions LLC",
+      "orderType": "Entity Formation",
+      "entityType": "LLC",
+      "entityName": "RedBeryl Tech Solutions LLC",
+      "state": "California",
+      "status": "COMPLETED",
+      "paymentStatus": "PAID",
+      "orderDate": "2025-02-14",
+      "completionDate": "2025-02-20",
+      "orderPlacedBy": "Nandkumar Rawate",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Articles of Organization - CA LLC", "amount": 70.0 },
+        { "item": "Registered Agent (1 Year)", "amount": 99.0 },
+        { "item": "Operating Agreement", "amount": 50.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 14, 2025",
+          "updatedBy": "Nandkumar Rawate"
+        },
+        {
+          "status": "PAYMENT RECEIVED",
+          "description": "Payment confirmed.",
+          "date": "Feb 14, 2025",
+          "updatedBy": "System"
+        },
+        {
+          "status": "FILED WITH STATE",
+          "description": "Documents filed with California SOS.",
+          "date": "Feb 18, 2025",
+          "updatedBy": "Admin"
+        },
+        {
+          "status": "COMPLETED",
+          "description": "Order completed successfully.",
+          "date": "Feb 20, 2025",
+          "updatedBy": "Admin"
+        }
+      ]
+    },
+    {
+      "id": "1739700001111",
+      "company": "Sunshine Ventures Inc",
+      "orderType": "Registered Agent",
+      "entityType": "Corporation",
+      "entityName": "Sunshine Ventures Inc",
+      "state": "Florida",
+      "status": "PENDING",
+      "paymentStatus": "PAID",
+      "orderDate": "2025-02-16",
+      "completionDate": null,
+      "orderPlacedBy": "Rahul Mehta",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Registered Agent Service (1 Year) - FL", "amount": 99.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 16, 2025",
+          "updatedBy": "Rahul Mehta"
+        },
+        {
+          "status": "PAYMENT RECEIVED",
+          "description": "Payment confirmed.",
+          "date": "Feb 16, 2025",
+          "updatedBy": "System"
+        }
+      ]
+    },
+    {
+      "id": "1739700002222",
+      "company": "BlueSky Holdings LLC",
+      "orderType": "Annual Report",
+      "entityType": "LLC",
+      "entityName": "BlueSky Holdings LLC",
+      "state": "New York",
+      "status": "COMPLETED",
+      "paymentStatus": "PAID",
+      "orderDate": "2025-01-10",
+      "completionDate": "2025-01-25",
+      "orderPlacedBy": "Priya Sharma",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Annual Report Filing - NY", "amount": 9.0 },
+        { "item": "Service Fee", "amount": 49.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Jan 10, 2025",
+          "updatedBy": "Priya Sharma"
+        },
+        {
+          "status": "PAYMENT RECEIVED",
+          "description": "Payment confirmed.",
+          "date": "Jan 10, 2025",
+          "updatedBy": "System"
+        },
+        {
+          "status": "COMPLETED",
+          "description": "Annual report filed successfully.",
+          "date": "Jan 25, 2025",
+          "updatedBy": "Admin"
+        }
+      ]
+    },
+    {
+      "id": "1739700003333",
+      "company": "Delta Corp",
+      "orderType": "Entity Formation",
+      "entityType": "Corporation",
+      "entityName": "Delta Corp",
+      "state": "Delaware",
+      "status": "CANCELLED",
+      "paymentStatus": "REFUNDED",
+      "orderDate": "2025-01-20",
+      "completionDate": null,
+      "orderPlacedBy": "Amit Joshi",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Certificate of Incorporation - DE", "amount": 89.0 },
+        { "item": "Registered Agent (1 Year)", "amount": 99.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Jan 20, 2025",
+          "updatedBy": "Amit Joshi"
+        },
+        {
+          "status": "CANCELLED",
+          "description": "Order cancelled by customer.",
+          "date": "Jan 22, 2025",
+          "updatedBy": "Amit Joshi"
+        }
+      ]
+    },
+    {
+      "id": "1739700004444",
+      "company": "PeakLine Services LLC",
+      "orderType": "Registered Agent",
+      "entityType": "LLC",
+      "entityName": "PeakLine Services LLC",
+      "state": "Wyoming",
+      "status": "PROCESSING",
+      "paymentStatus": "PAID",
+      "orderDate": "2025-02-18",
+      "completionDate": null,
+      "orderPlacedBy": "Sneha Patil",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Registered Agent Service (1 Year) - WY", "amount": 49.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 18, 2025",
+          "updatedBy": "Sneha Patil"
+        },
+        {
+          "status": "PAYMENT RECEIVED",
+          "description": "Payment confirmed.",
+          "date": "Feb 18, 2025",
+          "updatedBy": "System"
+        },
+        {
+          "status": "PROCESSING",
+          "description": "Filing in progress with Wyoming SOS.",
+          "date": "Feb 19, 2025",
+          "updatedBy": "Admin"
+        }
+      ]
+    },
+    {
+      "id": "1739700005555",
+      "company": "Nexus Traders LLC",
+      "orderType": "Annual Report",
+      "entityType": "LLC",
+      "entityName": "Nexus Traders LLC",
+      "state": "Nevada",
+      "status": "DRAFT",
+      "paymentStatus": "UNPAID",
+      "orderDate": "2025-02-20",
+      "completionDate": null,
+      "orderPlacedBy": "Vikram Singh",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Annual Report Filing - NV", "amount": 350.0 },
+        { "item": "Service Fee", "amount": 49.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 20, 2025",
+          "updatedBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "1739700006666",
+      "company": "Greenfield Organics Inc",
+      "orderType": "Entity Formation",
+      "entityType": "Corporation",
+      "entityName": "Greenfield Organics Inc",
+      "state": "Illinois",
+      "status": "COMPLETED",
+      "paymentStatus": "PAID",
+      "orderDate": "2025-01-05",
+      "completionDate": "2025-01-18",
+      "orderPlacedBy": "Anjali Desai",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Articles of Incorporation - IL", "amount": 150.0 },
+        { "item": "Registered Agent (1 Year)", "amount": 99.0 },
+        { "item": "EIN Application", "amount": 75.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Jan 05, 2025",
+          "updatedBy": "Anjali Desai"
+        },
+        {
+          "status": "PAYMENT RECEIVED",
+          "description": "Payment confirmed.",
+          "date": "Jan 05, 2025",
+          "updatedBy": "System"
+        },
+        {
+          "status": "FILED WITH STATE",
+          "description": "Documents filed with Illinois SOS.",
+          "date": "Jan 14, 2025",
+          "updatedBy": "Admin"
+        },
+        {
+          "status": "COMPLETED",
+          "description": "Order completed successfully.",
+          "date": "Jan 18, 2025",
+          "updatedBy": "Admin"
+        }
+      ]
+    },
+    {
+      "id": "1739700007777",
+      "company": "TechBridge Partners LLC",
+      "orderType": "Annual Report",
+      "entityType": "LLC",
+      "entityName": "TechBridge Partners LLC",
+      "state": "Texas",
+      "status": "PENDING",
+      "paymentStatus": "PAID",
+      "orderDate": "2025-02-22",
+      "completionDate": null,
+      "orderPlacedBy": "Rohan Kulkarni",
+      "accountManager": "Nandkumar Rawate",
+      "phone": "9836742169",
+      "email": "nandkumar@redberyl.com",
+      "receipt": [
+        { "item": "Annual Report Filing - TX", "amount": 0.0 },
+        { "item": "Service Fee", "amount": 49.0 }
+      ],
+      "orderHistory": [
+        {
+          "status": "ORDER CREATED",
+          "description": "Order created successfully.",
+          "date": "Feb 22, 2025",
+          "updatedBy": "Rohan Kulkarni"
+        },
+        {
+          "status": "PAYMENT RECEIVED",
+          "description": "Payment confirmed.",
+          "date": "Feb 22, 2025",
+          "updatedBy": "System"
+        }
+      ]
+    }
+  ]
+}
